@@ -20,11 +20,11 @@ export const metadata: Metadata = {
     title: "Cinex Collection – Premium Hair Growth Oil",
     description:
       "Experience visible results with Cinex Collection. The all-natural solution for thicker, healthier hair.",
-    url: "https://cinexcollection.com",
+    url: "https://cinexcollection.com.ng",
     siteName: "Cinex Collection",
     images: [
       {
-        url: "/og-image.jpg", // replace with your actual OG image path
+        url: "/og-image.png", // replace with your actual OG image path
         width: 1200,
         height: 630,
         alt: "Cinex Hair Growth Oil",
@@ -56,7 +56,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body
-        className={`${dmSerif.variable} ${montserrat.variable} font-montserrat`}
+        className={`${dmSerif.variable} ${montserrat.variable} font-montserrat scroll-smooth`}
       >
         <Navbar/>
         {children}
