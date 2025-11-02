@@ -74,7 +74,7 @@ export default function Footer() {
                 cinexcollection@gmail.com
               </a>
             </li>
-            <li className="flex items-center gap-3 pt-2">
+            {/* <li className="flex items-center gap-3 pt-2">
               <a
                 href="https://instagram.com/cinzecollection"
                 target="_blank"
@@ -89,7 +89,7 @@ export default function Footer() {
               >
                 <Facebook className="h-5 w-5" />
               </a>
-            </li>
+            </li> */}
           </ul>
         </div>
       </motion.div>
