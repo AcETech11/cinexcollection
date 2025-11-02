@@ -16,6 +16,9 @@ export const metadata: Metadata = {
     "scalp nourishment",
     "hair strengthening oil",
   ],
+  other: {
+    "facebook-domain-verification": "0ipw4yyur974jz237zc7dw0kqy3dpo",
+  },
   openGraph: {
     title: "Cinex Collection – Premium Hair Growth Oil",
     description:
