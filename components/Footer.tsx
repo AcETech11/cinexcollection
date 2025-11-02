@@ -102,7 +102,7 @@ export default function Footer() {
         className="border-t border-gray-700 mt-12 pt-8 text-center text-sm"
       >
         <p className="text-gray-400">
-          © {new Date().getFullYear()} Cinze Collection. All rights reserved.
+          © {new Date().getFullYear()} Cinex Collection. All rights reserved.
         </p>
         <p className="text-gray-500 mt-2">
           Developed by{" "}
